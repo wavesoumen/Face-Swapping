@@ -17,6 +17,6 @@
 
 ## Sample2:
 ### Both target and face are one frame:
-1[fc4](https://github.com/wavesoumen/Face-Swapping/blob/main/fc6.png)
+![fc4](https://github.com/wavesoumen/Face-Swapping/blob/main/fc6.png)
 ### Result2:
 ![fc5](https://github.com/wavesoumen/Face-Swapping/blob/main/fc7.png)
